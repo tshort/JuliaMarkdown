@@ -73,19 +73,19 @@ julia/ui/website/).
 ## Examples
 
 * jlmd_example1.md --
-  [live local link](http://localhost:2000/jlmd.htm?jlmd_example1.md), [raw](https://github.com/tshort/JuliaMarkdown/blob/master/jlmd_example1.md)
+  [live local link](http://localhost:2000/jlmd.htm?jlmd_example1.md), [raw](https://raw.github.com/tshort/JuliaMarkdown/master/jlmd_example1.md)
   -- Broad overview.
 
 * jlmd_example2.md --
-  [live local link](http://localhost:2000/jlmd.htm?jlmd_example2.md), [raw](https://github.com/tshort/JuliaMarkdown/blob/master/jlmd_example2.md)
+  [live local link](http://localhost:2000/jlmd.htm?jlmd_example2.md), [raw](https://raw.github.com/tshort/JuliaMarkdown/master/jlmd_example2.md)
   -- Example function calculator. 
 
 * jlmd_example3.md --
-  [live local link](http://localhost:2000/jlmd.htm?jlmd_example3.md), [raw](https://github.com/tshort/JuliaMarkdown/blob/master/jlmd_example3.md)
+  [live local link](http://localhost:2000/jlmd.htm?jlmd_example3.md), [raw](https://raw.github.com/tshort/JuliaMarkdown/master/jlmd_example3.md)
   -- More form examples. 
 
 * jlmd_example4.md --
-  [live local link](http://localhost:2000/jlmd.htm?jlmd_example4.md), [raw](https://github.com/tshort/JuliaMarkdown/blob/master/jlmd_example4.md)
+  [live local link](http://localhost:2000/jlmd.htm?jlmd_example4.md), [raw](https://raw.github.com/tshort/JuliaMarkdown/master/jlmd_example4.md)
   -- Interesting output from Julia.
 
 
