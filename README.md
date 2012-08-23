@@ -35,7 +35,7 @@ Markdown:
 
 When run, it will look like this in a browser:
 
-![jlmd screen capture](https://raw.github.com/tshort/julia/jlmd/ui/website/jlmd_screenshot.png)
+![jlmd screen capture](https://raw.github.com/tshort/JuliaMarkdown/master/jlmd_screenshot.png)
 
 In the Julia block header, you can specify the result type as
 `markdown` for Markdown output (also useful for HTML, since Markdown
@@ -73,19 +73,19 @@ julia/ui/website/).
 ## Examples
 
 * jlmd_example1.md --
-  [live local link](http://localhost:2000/jlmd.htm?jlmd_example1.md), [raw](https://raw.github.com/tshort/julia/jlmd/ui/website/jlmd_example1.md)
+  [live local link](http://localhost:2000/jlmd.htm?jlmd_example1.md), [raw](https://github.com/tshort/JuliaMarkdown/blob/master/jlmd_example1.md)
   -- Broad overview.
 
 * jlmd_example2.md --
-  [live local link](http://localhost:2000/jlmd.htm?jlmd_example2.md), [raw](https://raw.github.com/tshort/julia/jlmd/ui/website/jlmd_example2.md)
+  [live local link](http://localhost:2000/jlmd.htm?jlmd_example2.md), [raw](https://github.com/tshort/JuliaMarkdown/blob/master/jlmd_example2.md)
   -- Example function calculator. 
 
 * jlmd_example3.md --
-  [live local link](http://localhost:2000/jlmd.htm?jlmd_example3.md), [raw](https://raw.github.com/tshort/julia/jlmd/ui/website/jlmd_example3.md)
+  [live local link](http://localhost:2000/jlmd.htm?jlmd_example3.md), [raw](https://github.com/tshort/JuliaMarkdown/blob/master/jlmd_example3.md)
   -- More form examples. 
 
 * jlmd_example4.md --
-  [live local link](http://localhost:2000/jlmd.htm?jlmd_example4.md), [raw](https://raw.github.com/tshort/julia/jlmd/ui/website/jlmd_example4.md)
+  [live local link](http://localhost:2000/jlmd.htm?jlmd_example4.md), [raw](https://github.com/tshort/JuliaMarkdown/blob/master/jlmd_example4.md)
   -- Interesting output from Julia.
 
 
